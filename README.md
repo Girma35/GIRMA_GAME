@@ -21,5 +21,3 @@ This Hangman game project is a classic word guessing game built in Python. Playe
 This project serves as an example of building a simple console-based game in Python and demonstrates the use of ASCII art for visual feedback. Feel free to fork, modify, and improve upon this project!
 
 ---
-
-Feel free to adjust or expand upon this description as needed to better fit your project and its features.
